@@ -1,0 +1,18 @@
+.cardDetail{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10vw 40vw 20vw 40vw;
+    max-width: 400px;
+    max-height: 400px;
+    text-align: center;
+}
+.cardDetail h1{
+    margin: 20px;
+}
+
+.cardDetail p{
+    margin: 10px 0px;
+}

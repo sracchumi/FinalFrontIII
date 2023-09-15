@@ -1,0 +1,25 @@
+
+.cards {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 5px;
+    max-width: 400px;
+    max-height: 400px;
+    text-align: center;
+}
+
+.card button {
+    margin: 10px;
+    border-radius: 8px;
+    border: solid rgb(125, 114, 161);
+    background-color: #c5ceed;
+}
+
+
+
+.card img {
+    border-radius: 20px;
+}
